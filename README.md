@@ -1,2 +1,3 @@
 # netflix-clone-page
-HTML,CSS,Javascript
+This is a netflix home page clone which is mainly built by HTML & CSS.
+
